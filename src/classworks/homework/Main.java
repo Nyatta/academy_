@@ -10,6 +10,8 @@ public class Main {
 //        calculator1.counter2 = 0;
 //        calculator1.counter3 = 0;
 
+        //test git
+
         System.out.println(calculator1.counter1);
         calculator1.counter1 = 10;
         System.out.println(calculator1.counter1);
